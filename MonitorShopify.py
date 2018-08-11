@@ -12,7 +12,6 @@ import asyncio
 client = discord.Client()
 
 ########@CNRPZL########
-#A lot of this monitor was made with heavy influence from other shopify programs written in python on Github, I appreciate everyone that shares their programs on github because
 #I have learned a lot from reading source code, and hopefully people will learn something from this, even if it is amateurish. Hit my twitter if you have any ideas, @CNRPZL GL
 ########@CNRPZL########
 
